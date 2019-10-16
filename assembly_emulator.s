@@ -1,4 +1,4 @@
-;;; -*- mode: asm; compile-command: "wia wave3.s" -*-
+;;; -*- mode: asm -*-
 ;;; An emulator for an ARM-inspired architecture
 
 	.requ	ir,r14
